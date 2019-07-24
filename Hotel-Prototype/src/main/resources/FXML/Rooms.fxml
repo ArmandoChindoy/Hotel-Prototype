@@ -15,7 +15,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Main.sample.ControllerRooms">
+<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Hotel_Prototype.Controllers.ControllerRooms">
    <left>
       <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" spacing="10.0" BorderPane.alignment="CENTER">
          <padding>
@@ -24,14 +24,14 @@
          <children>
             <ImageView fx:id="iVAdmin" fitHeight="50.0" fitWidth="50.0" onMouseClicked="#showAdmin" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../Images/AdminIcon.png" />
+                  <Image url="@../Images/AdminIcon.png" />
                </image>
             </ImageView>
             <Button fx:id="btnAdmin" mnemonicParsing="false" onAction="#showAdmin" text="Admin" />
             <Separator prefWidth="200.0" />
             <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../Images/registerIcon.png" />
+                  <Image url="@../Images/registerIcon.png" />
                </image>
             </ImageView>
             <Button fx:id="btnRegister" mnemonicParsing="false" text="Register" />
@@ -45,14 +45,14 @@
          <children>
             <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../Images/menuIcon.png" />
+                  <Image url="@../Images/menuIcon.png" />
                </image>
             </ImageView>
             <Button fx:id="btnMenuHotel" mnemonicParsing="false" text="HotelMenu" />
             <Separator prefWidth="200.0" />
             <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../Images/check-outIcon.png" />
+                  <Image url="@../Images/check-outIcon.png" />
                </image>
             </ImageView>
             <Button fx:id="btnCheckOut" mnemonicParsing="false" text="CheckOut" />

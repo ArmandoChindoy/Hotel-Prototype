@@ -19,7 +19,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane prefHeight="450.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Main.sample.ControllerCheckInOut">
+<BorderPane prefHeight="450.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Hotel_Prototype.Controllers.ControllerCheckInOut">
    <bottom>
       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="10.0" BorderPane.alignment="CENTER">
          <children>
@@ -87,7 +87,7 @@
                      <children>
                         <ImageView fitHeight="35.0" fitWidth="70.0" layoutX="77.0" layoutY="-1.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../../Images/TravelPackIcon.png" />
+                              <Image url="@../Images/TravelPackIcon.png" />
                            </image>
                         </ImageView>
                         <Label fx:id="lblTravelDays" layoutX="91.0" layoutY="8.0" text="0" textFill="WHITE" />
