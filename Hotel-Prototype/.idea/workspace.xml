@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d25d5e47-d3c0-462b-8a28-4391bcd26e41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotel-Prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Conection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerCheckInOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerCheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerEmpleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerMenuHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerRegistro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Controllers/ControllerRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Registro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/ListC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/ListaD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/NodeBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/NodoDoble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/Nodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/Structures/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/CheckOut.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/Check_In_Out.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/Empleados.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/Registers.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/Room.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/Rooms.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/FXML/menuHotel.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Images/AdminIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Images/TravelPackIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Images/check-outIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Images/menuIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Images/registerIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Images/roomsIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/CheckOut.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Check_In_Out.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Empleados.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Registers.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Room.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Rooms.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/FXML/menuHotel.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Images/AdminIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Images/TravelPackIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Images/check-outIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Images/menuIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Images/registerIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Images/roomsIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Hotel-Prototype.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../green_bit_hotel.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hotel_Prototype/App.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d25d5e47-d3c0-462b-8a28-4391bcd26e41" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -157,10 +90,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1546" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -290,14 +223,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31434315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -305,7 +239,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42998585" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
